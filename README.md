@@ -1,4 +1,4 @@
-<img align="right" width="330" src="https://github.com/Ivanv3lkov/Ivanv3lkov/blob/main/Media/web-development.png?raw=true"/>
+<img align="right" width="330" src="https://github.com/Ivanv3lkov/Ivanv3lkov/blob/main/Media/media.png?raw=true"/>
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
