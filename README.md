@@ -1,6 +1,6 @@
 <img align="right" width="330" src="https://github.com/Ivanv3lkov/Ivanv3lkov/blob/main/Media/media.png?raw=true"/>
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
   #### **Personal Stuff:**
 
@@ -17,7 +17,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 * * *
-* 1
-* 2
-* 3
-* 4
