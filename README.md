@@ -5,7 +5,7 @@
   #### **Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Nodejs
 
 #### **Languages and Tools:**
 
