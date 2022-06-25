@@ -63,3 +63,9 @@
  <br>
  
  ## 🤝🏻 &nbsp;You can find me here:
+ <p>
+ <a href="">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+ </a> 
+
+
