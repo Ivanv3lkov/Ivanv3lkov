@@ -21,7 +21,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
  <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/npm/typescript">
+     <img alt="TypeScript" src="https://img.shields.io/npm/types/typescript">
    </a>
   <a href="https://www.w3.org/html" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
@@ -64,9 +64,6 @@
   </a>
   <a href="https://github.com">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23A03522.svg?logo=github&logoColor=white">
-  </a>
-  <a href="https://pages.github.com">
-    <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white">
   </a>
   <a href="https://code.visualstudio.com">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
