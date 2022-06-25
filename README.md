@@ -16,11 +16,8 @@
   <a href="https://www.w3.org/html" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
-  <a href="https://redux.js.org/" target="_blank">
-    <img alt="Redux" src="https://img.shields.io/badge/logo=redux&logoColor=white">
-  </a>
    <a href="https://www.w3schools.com/css" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/redux?style=for-the-badge&logo=redux&logoColor=white">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
   <a href="https://sass-lang.com">
     <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
