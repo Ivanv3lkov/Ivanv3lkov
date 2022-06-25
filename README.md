@@ -60,11 +60,8 @@
   </a>
 </p>
  <br>
- 
  ## 🤝🏻 &nbsp;You can find me here:
  <p>
  <a href="https://www.linkedin.com/in/ivan-velkov-1a1121144/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
  </a> 
-
-
