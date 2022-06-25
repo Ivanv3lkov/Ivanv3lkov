@@ -35,11 +35,11 @@
   <a href="https://nodejs.org/en/about">
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
   </a>
+   <a href="https://expressjs.com">
+    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+  </a>
    <a href="https://www.npmjs.com" target="_blank"> 
     <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white">
-  </a>
-  <a href="https://expressjs.com">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
   </a>
   <a href="https://handlebarsjs.com">
     <img alt="Handlebars" src="https://img.shields.io/badge/Handlebars.js-FE7A16?&logo=handlebarsdotjs&logoColor=black">
