@@ -11,7 +11,7 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
  <a href="https://www.typescriptlang.org/" target="_blank"> 
-     <img alt="TypeScript" src="https://img.shields.io/npm/typescript">
+     <img alt="TypeScript" src="https://img.shields.io/badge/-<Typescript>-<blue>">
    </a>
   <a href="https://www.w3.org/html" target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
