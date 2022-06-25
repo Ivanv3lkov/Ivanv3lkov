@@ -56,6 +56,9 @@
     <a href="https://www.chaijs.com" target="_blank"> 
     <img alt="Chai" src="https://img.shields.io/badge/chai-A30701?logo=chai&logoColor=white">
   </a>
+  <a href="https://www.cypress.io/" target="_blank"> 
+    <img alt="Cypress" src="https://img.shields.io/badge/cypress.io-A30701?logo=chai&logoColor=white">
+  </a>
   <a href="https://git-scm.com">
     <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
   </a>
