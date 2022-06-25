@@ -20,7 +20,7 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a>
    <a href="https://reactjs.org/" target="_blank">
-    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=white">
+    <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react">
   </a>
   <a href="https://sass-lang.com">
     <img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white">
