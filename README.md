@@ -2,7 +2,7 @@
  
   #### **Personal Stuff:**
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.js & ReactJS
 
 #### **Languages and Tools:**
 
