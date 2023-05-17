@@ -1,8 +1,4 @@
 <img align="right" width="330" src="https://github.com/Ivanv3lkov/Ivanv3lkov/blob/main/Media/media.png?raw=true"/>
- 
-  #### **Personal Stuff:**
-
-- 🌱 I’m currently learning Node.js & ReactJS & TypeScript
 
 #### **Languages and Tools:**
 
